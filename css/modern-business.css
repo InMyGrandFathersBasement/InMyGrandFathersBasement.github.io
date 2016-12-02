@@ -26,18 +26,18 @@ body {
 /* Home Page Carousel */
 
 header.carousel {
-    height: 1000px;
+    height:500px;
 }
 
 header.carousel .item,
 header.carousel .item.active,
 header.carousel .carousel-inner {
-    height: 1000px;
+    height: 500px;
 }
 
 header.carousel .fill {
-    width:50%;
-    height: 50%;
+    width:100%;
+    height: 100%;
     background-position: center;
     background-size: cover;
 }
