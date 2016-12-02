@@ -26,13 +26,13 @@ body {
 /* Home Page Carousel */
 
 header.carousel {
-    height: 100%;
+    height: 200%;
 }
 
 header.carousel .item,
 header.carousel .item.active,
 header.carousel .carousel-inner {
-    height: 200%;
+    height: 300%;
 }
 
 header.carousel .fill {
