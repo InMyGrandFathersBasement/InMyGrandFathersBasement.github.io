@@ -32,7 +32,7 @@ header.carousel {
 header.carousel .item,
 header.carousel .item.active,
 header.carousel .carousel-inner {
-    height: 300%;
+    height: 500px;
 }
 
 header.carousel .fill {
